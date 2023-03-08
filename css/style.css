@@ -2,6 +2,9 @@
     box-sizing: border-box;
     margin: 2px;
 }
+ body {   
+    font-family:'Times New Roman', Times, serif
+}
 
 Body {
     background-color: aquamarine;
@@ -107,6 +110,11 @@ section table thead tr {
 section table th,
 section table td {
     border: 1px solid black
+}
+.boton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 
